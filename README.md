@@ -29,5 +29,5 @@ Your task is to provide consultation to two different investors, Mr Patrick Jyen
 ## Data Overview 
 - There are a total of 24 stocks.
 - These 24 stocks belong to specific sectors. 
-- The sectors are Aviation, Finance, Healthcare, Pharmaceuticals, and Technology.
+- The sectors are Aviation, Finance, Healthcare, Pharmaceuticals, and Technology.
 - There are 6 stocks belonging to Aviation sector, 6 Finance sector stocks, 6 stocks that belong to Healthcare and Pharmaceuticals together, and 6 stocks belonging to Technology Sector.
